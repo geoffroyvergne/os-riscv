@@ -4,3 +4,4 @@ shell.bin
 shell.bin.o
 shell.elf
 shell.map
+qemu.log
